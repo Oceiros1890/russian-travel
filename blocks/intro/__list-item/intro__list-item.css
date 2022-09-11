@@ -1,4 +1,4 @@
-.info__list-item {
+.intro__list-item {
   margin: 0 0 2px 0;
   font-size: 12px;
   line-height: 16px;
@@ -6,6 +6,6 @@
   color: #ffffff;
 }
 
-.info__list-item:last-child {
+.intro__list-item:last-child {
   margin: 0 0 0 0;
 }

@@ -6,7 +6,6 @@
   text-align: center;
   max-width: 560px;
   padding: 0;
-  text-align: center;
   line-height: 106%;
   z-index: 1;
 }
@@ -17,5 +16,11 @@
     min-width: 288px;
     font-size: 32px;
     line-height: 109%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover__title {
+    max-width: 288px;
   }
 }
